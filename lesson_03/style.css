@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+  margin: 0;
+
+}
+
+main {
+    padding: 0px 30px;
+}
+
+h1 {
+  margin-bottom: 25px;
+}
+
+.theme-title {
+  margin-top: 0px;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    padding: 10px 30px;
+    background-color: coral;
+}
+
+
+.red-box {
+  margin: 20px;
+  padding: 10px;
+  background-color: rgb(229, 128, 128);
+}
+
+.green-box {
+  margin: 10px auto 5px ;
+  background-color: rgb(163, 234, 163);
+}
+
+.yellow-box {
+    border: 10px dashed rgb(133, 147, 236) ;
+    padding: 50px;
+    background-color: rgb(238, 238, 95);
+}
+
+footer {
+    height: 80px;
+    background-color: gray
+
+ 
+}

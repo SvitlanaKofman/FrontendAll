@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "3.2",
+		"path": "../HomeWork/3/3.2"
+	},
+	{
+		"name": "3.1",
+		"path": "../HomeWork/3/3.1"
+	},
+	{
+		"name": "Front end",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501
+  }
+}
