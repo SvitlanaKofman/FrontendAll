@@ -1,0 +1,43 @@
+*{
+    color: rgb(97, 93, 93);
+}
+
+h1 {
+    color: darkslateblue;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: rgb(218, 92, 46);
+}
+
+.blue-text {
+    color: rgb(27, 27, 198);
+}
+
+.css-heading {
+    color: green;
+    font-weight: bold;
+    fond-size: 18px;
+}
+
+.css-link {
+       color: green;
+
+}
+
+.img-no-inline {
+    width: 500px;
+}
+
+.css-list-item {
+    color: black;
+    font-style: italic;
+
+}
+
+.css-priority {
+    text-decoration: underline;
+    color: darkcyan;
+}
